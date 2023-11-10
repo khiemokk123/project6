@@ -1,0 +1,84 @@
+.background{
+    background-color: #da251c;
+}
+.position{
+    position: relative;
+}
+.position input {
+    background-color: #fff;
+    border: none;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 10px;
+    width: 100%;   
+    padding-right: 0;
+}
+.border td{
+    border: 1px solid rgb(94, 94, 94);
+}
+.danhmuc{
+    padding-left: 2%;
+}
+.red{
+    color: red;
+}
+.mota{
+    font-size: 13px;
+    font-weight: 500;
+}
+.tieude{
+    font-size: 25px;
+    font-weight: 600;
+}
+.thuonghieu{
+    font-size: 10px;
+    color: rgb(134, 134, 134);
+}
+.line1{
+    position: relative;
+    width: 3px; 
+    height: 30px;
+    border-radius: 20px;
+}
+.sale{
+    background-color:#da251c;
+    color: white;
+    margin-left: 50%;
+    margin-right: -40%;
+    text-align: center;
+    transform: rotate(45deg);
+}
+.giamgia{
+    text-decoration-line: line-through;
+    color: #cecece;
+}
+.motagiamgia{
+    font-size: 13px;
+}
+.giahot{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Arial;
+}
+.text-white{
+    color: #fff;
+}
+.blog a{
+    color: #da251c;
+}
+.vertical-line {
+    border-right: 1px solid #ccc;
+    padding-right: 15px;
+}
+.footermota{
+    font-size: 12px;
+    font-weight: 400;
+}
+.footertd{
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+}
+.cangiua{
+    text-align: center;
+}
